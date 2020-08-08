@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there, I'm Walter Sweetheart and this is my github repo 👋
 
-<!--
-**WalterSweetheart/WalterSweetheart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a CPP programmer, Student and just one sweet guy.
+- 🔭 I’m currently working on a [Custom discord client](https://github.com/WalterSweetheart/custom-discord)
+- 🌱 I’m currently learning CPP
+- 👯 I’m looking to collaborate with other content creators to write better code
+- 🥅 2020 Goals: Finish the custom discord client and start to make some addons for it
 
-Here are some ideas to get you started:
+### Connect with me:
+- [<img align="bottom" alt="discord.com" width="26px" src="./Discord-Logo-Black.svg" />](https://discord.com) WalterSweetheart#6961
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [<img align="bottom" alt="github.com" width="26px" src="./GitHub-Mark-32px.png" />](https://github.com/WalterSweetheart) [Github profile](https://github.com/WalterSweetheart)
+
+- [<img alt="bottom" atl="youtube.com" width="26px" src="./youtube_social_icon_red.png" />](https://www.youtube.com/channel/UC_R9cpdCUqwK4pXjIM2CWHg) [Youtube chanell](https://www.youtube.com/channel/UC_R9cpdCUqwK4pXjIM2CWHg)
