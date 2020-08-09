@@ -1,11 +1,10 @@
 ### Hi there, I'm Walter Sweetheart and this is my github repo 👋
 
 ## I'm a CPP programmer, student and just one sweet guy.
-- 🔭 I’m currently working on a [Custom discord client](https://github.com/WalterSweetheart/custom-discord)
+- 🔭 I’m currently working on nothing
 - 🌱 I’m currently learning CPP
 - 👯 I’m looking to collaborate with other content creators to write better code
-- 🥅 2020 Goals: Finish the custom discord client and start to make some addons for it
-
+- 🥅 2020 Goals: Survive
 ### Connect with me:
 - [<img align="bottom" alt="discord.com" width="26px" src="https://raw.githubusercontent.com/WalterSweetheart/WalterSweetheart/5523a3501c6d96f5d214e67ca151716dab94b856/Discord-Logo-Black.svg" />](https://discord.com) WalterSweetheart#6961
 
