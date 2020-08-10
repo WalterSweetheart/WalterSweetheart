@@ -1,8 +1,8 @@
 ### Hi there, I'm Walter Sweetheart and this is my github repo 👋
 
 ## I'm a CPP programmer, student and just one sweet guy.
-- 🔭 I’m currently working on nothing
-- 🌱 I’m currently learning CPP
+- 🔭 I’m currently working on my own RPG engine
+- 🌱 I’m currently learning C because CPP is a bullshit
 - 👯 I’m looking to collaborate with other content creators to write better code
 - 🥅 2020 Goals: Survive
 ### Connect with me:
