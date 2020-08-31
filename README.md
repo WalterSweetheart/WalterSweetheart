@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate with other content creators to write better code
 - 🥅 2020 Goals: Survive
 ### Connect with me:
-- [<img align="bottom" alt="discord.com" width="26px" src="https://raw.githubusercontent.com/WalterSweetheart/WalterSweetheart/5523a3501c6d96f5d214e67ca151716dab94b856/Discord-Logo-Black.svg" />](https://discord.com) WalterSweetheart#6961
+- [<img align="bottom" alt="discord.com" width="26px" src="https://raw.githubusercontent.com/WalterSweetheart/WalterSweetheart/5523a3501c6d96f5d214e67ca151716dab94b856/Discord-Logo-Black.svg" />](https://discord.com) [WalterSweetheart#6961](https://discord.com)
 
 - [<img align="bottom" alt="github.com" width="26px" src="https://raw.githubusercontent.com/WalterSweetheart/WalterSweetheart/master/GitHub-Mark-32px.png" />](https://github.com/WalterSweetheart) [Github profile](https://github.com/WalterSweetheart)
 
