@@ -2,7 +2,7 @@
 
 ## I'm a CPP programmer, student and just one sweet guy.
 - 🔭 I’m currently not working on some bullshit
-- 🌱 I’m currently learning Python 3
+- 🌱 I’m currently learning algorithms.
 - 👯 I’m looking to collaborate with other content creators to write better code
 - 🥅 2020 Goals: Survive
 ### Connect with me:
