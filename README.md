@@ -15,4 +15,5 @@
 ### Sowcase:
 1. Project euler: [Project Euler](https://projecteuler.net/progress=WalterSweetheart)
 2. ACMP: [Acmp](https://acmp.ru/index.asp?main=user&id=323944)
+
 https://prod.liveshare.vsengsaas.visualstudio.com/join?4B777FEC1A6FFCB61A19E1C7A5306094328D
