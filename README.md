@@ -1,10 +1,10 @@
 ### Hi there, I'm Walter Sweetheart and this is my github repo 👋
 
-## I'm a CPP programmer, student and just one sweet guy.
-- 🔭 I’m currently working in my own outsource company.
-- 🌱 I’m currently learning Django.
-- 👯 I’m looking to collaborate with other content creators to write better code
-- 🥅 2020 Goals: Get into CI
+## I'm a JS programmer, student and just one sweet guy.
+- 🔭 I’m currently working on my way.
+- 🌱 I’m currently learning JS.
+- 👯 I’m looking to collaborate with other content creators to write better code.
+- 🥅 2021 Goals: Get into CI.
 ### Connect with me:
 - [<img align="bottom" alt="discord.com" width="26px" src="https://raw.githubusercontent.com/WalterSweetheart/WalterSweetheart/5523a3501c6d96f5d214e67ca151716dab94b856/Discord-Logo-Black.svg" />](https://discord.com) [WalterSweetheart#6961](https://discord.com)
 
