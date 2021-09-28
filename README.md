@@ -1,6 +1,6 @@
 ### Hi there, I'm Walter Sweetheart and this is my github repo 👋
 
-## I'm a JS programmer, student and just one sweet guy.
+## I'm a programmer, student and just one sweet guy.
 - 🔭 I’m currently working on my way.
 - 🌱 I’m currently learning bash and lua.
 - 👯 I’m looking to collaborate with other content creators to write better code.
