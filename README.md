@@ -2,7 +2,7 @@
 
 ## I'm a programmer, student and just one sweet guy.
 - 🔭 I’m currently working on my way.
-- 🌱 I’m currently learning bash and lua.
+- 🌱 I’m currently learning bash and python.
 - 👯 I’m looking to collaborate with other content creators to write better code.
 - 🥅 2021 Goals: just work.
 ### Connect with me:
@@ -14,3 +14,4 @@
 
 ### Sowcase:
 1. Reductor - a sanic mail backend: [Reductor](https://github.com/WalterSweetheart/reductor)
+2. GSW - gti simple wrapper: [gsw](https://github.com/WalterSweetheart/gsw)
