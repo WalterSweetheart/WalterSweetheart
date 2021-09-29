@@ -14,4 +14,4 @@
 
 ### Sowcase:
 1. Reductor - a sanic mail backend: [Reductor](https://github.com/WalterSweetheart/reductor)
-2. GSW - gti simple wrapper: [gsw](https://github.com/WalterSweetheart/gsw)
+2. GSW - gti simple wrapper: [gsw](https://github.com/WalterSweetheart/git-simple-wrapper)
